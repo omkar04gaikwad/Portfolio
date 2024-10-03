@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Visit my [Portfolio](https://omkar04gaikwad.github.io/Omkar_Gaikwad)
+Visit my [Portfolio](https://omkar04gaikwad.github.io/Portfolio/)
 
 ## Available Scripts
 
